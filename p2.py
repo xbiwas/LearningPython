@@ -9,6 +9,7 @@ apple_price[0:3],
 apple_price[1:3], #
 apple_price[::-1]) #it will reverse the array
 
+
 # store mango's price from april 19 to april 24
 
 mango_price = {
