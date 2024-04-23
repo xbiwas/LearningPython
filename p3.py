@@ -9,12 +9,12 @@ quiz = [
     },
 ]
 
-answer = input()
+# answer = input()
 
-if answer != quiz[0]["Answer"]:
-    print("Wrong")
-else:
-    print("Right")
+# if answer != quiz[0]["Answer"]:
+#     print("Wrong")
+# else:
+#     print("Right")
 
 def check_answer(question, user_answer):
     if user_answer != question["Answer"]:
