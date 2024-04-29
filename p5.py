@@ -11,3 +11,9 @@ df = pd.DataFrame(
         }
     )
 print(df)
+print(df["Age"])
+print(df["Name"])
+print(df["Sex"])
+print(df["Age"].max())
+
+print(df.describe())
