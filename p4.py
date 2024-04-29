@@ -18,7 +18,7 @@ print(b.shape)
 print(a.dtype)
 print(b.dtype)
 
-# Get size
+# Get sizef
 print(a.itemsize)
 print(b.itemsize)
 
